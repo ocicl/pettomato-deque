@@ -1,0 +1,10 @@
+* pettomato-deque
+
+double-ended queue implementations
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/austinhaas/pettomato-deque.git   |
+| commit  | {"messa  |
+| systems | pettomato-deque |
+|---------+-------------------------------------------|
+
